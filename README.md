@@ -19,6 +19,32 @@
 python batch_runner.py
 ```
 
+## Run Locally
+
+1. Clone the project
+
+```bash
+  git clone https://github.com/shai987/File-Batch-Manager.git
+```
+
+2. Go to the project directory
+
+```bash
+  cd File-Batch-Manager
+```
+
+3. Install the required dependencies:
+
+```bash
+  pip install -r requirements.txt
+```
+
+4. Run the Python file:
+
+```bash
+  python batch_runner.py
+```
+
 ## Author
 
 👤 **Shai Geffen**
