@@ -32,18 +32,18 @@ def select_file(command):
 
 # window
 window = ttk.Window(themename='united')
-window.title('Batch runner')
+window.title('Batch Manager')
 window.geometry('400x220+0+0')
 # window.iconbitmap('python.ico')
 
 # window sizes
-window.minsize(200, 200)
+window.minsize(280, 200)
 
 # window attributes
 window.attributes('-topmost', True)
 
 # title
-title = ttk.Label(master=window, text='Run batch files', font='Ariel 20 bold')
+title = ttk.Label(master=window, text='Batch File Manager', font='Ariel 20 bold')
 title.pack()
 
 # my frame
