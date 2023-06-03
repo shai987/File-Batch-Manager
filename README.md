@@ -7,18 +7,6 @@
 
 > This application designed using Tkinter, a Python GUI toolkit, to simplify the management of batch files. Whether you need to run, edit, or delete batch files, this application provides an intuitive and user-friendly interface to perform these tasks with ease.
 
-## Install
-
-```sh
- pip install -r requirements.txt
-```
-
-## Usage
-
-```sh
-python batch_runner.py
-```
-
 ## Run Locally
 
 1. Clone the project
@@ -43,6 +31,18 @@ python batch_runner.py
 
 ```bash
   python batch_runner.py
+```
+
+## Install
+
+```sh
+ pip install -r requirements.txt
+```
+
+## Usage
+
+```sh
+python batch_runner.py
 ```
 
 ## Author
