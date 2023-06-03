@@ -24,7 +24,7 @@ python batch_runner.py
 👤 **Shai Geffen**
 
 * Github: [@shai987](https://github.com/shai987)
-* LinkedIn: [@Shai Geffen](https://linkedin.com/in/Shai Geffen)
+* LinkedIn: [@Shai Geffen](https://linkedin.com/in/shai-geffen-24373721a)
 
 ## Show your support
 
