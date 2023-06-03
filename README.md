@@ -26,6 +26,10 @@ python batch_runner.py
 * Github: [@shai987](https://github.com/shai987)
 * LinkedIn: [@Shai Geffen](https://linkedin.com/in/shai-geffen-24373721a)
 
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/shai987/File-Batch-Manager/issues).
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
