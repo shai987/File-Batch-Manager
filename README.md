@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to File-Batch-Manager 👋</h1>
 <p>
-  <a href="#" target="_blank">
+  <a href="https://github.com/shai987/File-Batch-Manager/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
